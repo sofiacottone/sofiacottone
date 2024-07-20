@@ -5,13 +5,6 @@
 <p align="center">My Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,vue,vite,mysql,php,laravel">
-  </a>
-</p>
-
-<p align="center">Currently learning:</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,vue,vite,mysql,php,laravel,tailwind,react,typescript">
   </a>
 </p>
